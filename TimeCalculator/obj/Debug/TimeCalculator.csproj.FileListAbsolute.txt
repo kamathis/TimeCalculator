@@ -1,0 +1,10 @@
+C:\Users\Kristi\source\repos\TimeCalculator\TimeCalculator\bin\Debug\TimeCalculator.exe.config
+C:\Users\Kristi\source\repos\TimeCalculator\TimeCalculator\bin\Debug\TimeCalculator.exe
+C:\Users\Kristi\source\repos\TimeCalculator\TimeCalculator\bin\Debug\TimeCalculator.pdb
+C:\Users\Kristi\source\repos\TimeCalculator\TimeCalculator\obj\Debug\TimeCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Kristi\source\repos\TimeCalculator\TimeCalculator\obj\Debug\TimeCalculator.TimeCalculator.resources
+C:\Users\Kristi\source\repos\TimeCalculator\TimeCalculator\obj\Debug\TimeCalculator.Properties.Resources.resources
+C:\Users\Kristi\source\repos\TimeCalculator\TimeCalculator\obj\Debug\TimeCalculator.csproj.GenerateResource.Cache
+C:\Users\Kristi\source\repos\TimeCalculator\TimeCalculator\obj\Debug\TimeCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Kristi\source\repos\TimeCalculator\TimeCalculator\obj\Debug\TimeCalculator.exe
+C:\Users\Kristi\source\repos\TimeCalculator\TimeCalculator\obj\Debug\TimeCalculator.pdb
